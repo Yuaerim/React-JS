@@ -10,7 +10,7 @@ function App() {
     <div className="App">
       <h1 
         style={{
-          color: "red",
+          color: "yellow",
           backgroundColor : "green"
         }}
       >
